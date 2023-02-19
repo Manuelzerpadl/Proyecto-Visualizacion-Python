@@ -34,3 +34,9 @@ Higher gdp growth influences decrease in suicide rate
 We can see how historically the number of suicides in women has remained the same with very small variations, however, despite the fact that suicides have declined due to the increase in the gdp, the number of suicides in men has continued to increase.
 
 ![portada](https://github.com/Manuelzerpadl/Proyecto-Viz/blob/4d5a320761bb0655c9645a639a90f46c8807b7a9/Img/suicidesperyeargenre.png)
+
+## Conclusion
+
+Data in spain indicate that men of the older generations are the ones who commit suicide the most. Women have not had much variation historically and have remained in the same line for the last 20 years.
+
+The increase in gdp may be related to the decrease in the suicide rate.
